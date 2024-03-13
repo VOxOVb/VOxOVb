@@ -14,12 +14,13 @@
 <h4><img src="https://skillicons.dev/icons?i=figma,illustrator,photoshop&theme=light&perline=3"><span> </span><img src="https://github.com/VOxOVb/VOxOVb/blob/05d0ea5340a03d78fdbf7b2d1e09b5e14e59a528/protopie_round.png" width="50"></h4>
 <h2>專案</h2>
 <h3>Projects</h3>
-<h4>🐈貓奴檢定-貓知識測驗小遊戲<span> </span><a href="https://meowmastery.netlify.app/" target="_blank">🎮Link</a><span> </span><a href="https://github.com/VOxOVb/catquizoxo">🖥Github</a></h4>
+<h4>🐈貓奴檢定-貓知識測驗小遊戲<span> </span><a href="https://meowmastery.netlify.app/">🎮Link</a><span> </span><a href="https://github.com/VOxOVb/catquizoxo">🖥Github</a></h4>
 <p><code>#React</code>  <code>SCSS</code></p>
 <p>每次遊玩都從題庫隨機取題，以 React 各式 hook 完成進度切換、成績計算及題目解析等功能，並使用 html2canvas 達成測驗結果下載。</p>
 <h4>🐈貓奴檢定-設計發想介紹網頁<span> </span><a href="https://meowmastery-intro.netlify.app/">🎮Link</a><span> </span><a href="https://github.com/VOxOVb/oxo4work-portfolio">🖥Github</a></h4>
 <p><code>#React</code>  <code>SCSS</code>  <code>Rive</code></p>
-<p>介紹貓奴檢定的視覺設計及看不到的程式小巧思，將本來置於 Behance 等平台的介紹內容，使用 Rive 及 CSS 加上一個有互動性的入口，並監聽滾動事件，以優化使用者體驗。</p>
+<p>介紹貓奴檢定的視覺設計及看不到的程式小巧思，將本來置於 Behance 等平台的平面內容，使用 Rive 及 CSS 加上一個有互動性的登陸頁，並監聽滾動事件，以優化使用者體驗。</p>
+<h4></h4>
 
 
 
