@@ -9,17 +9,30 @@
 <h2>使用技術</h2>
 <h3>Toolbox<img align="right" src="https://media.giphy.com/media/qhub8pu17Jd9UIklQ7/giphy.gif" width="150" height="150" ></h3>
 <h4>⭐Front-end⭐</h4>
-<h4><img src="https://skillicons.dev/icons?i=react,javascript,scss,bootstrap,html&theme=light&perline=6"><span> </span><img src="https://github.com/VOxOVb/VOxOVb/blob/05d0ea5340a03d78fdbf7b2d1e09b5e14e59a528/rive_round.png" width="50"></h4>
+<h4><img src="https://skillicons.dev/icons?i=react,javascript,scss,bootstrap,html&theme=light&perline=6"><span> </span><img src="./rive_round.png" width="50"></h4>
 <h4>⭐UI/UX⭐</h4>
-<h4><img src="https://skillicons.dev/icons?i=figma,illustrator,photoshop&theme=light&perline=3"><span> </span><img src="https://github.com/VOxOVb/VOxOVb/blob/05d0ea5340a03d78fdbf7b2d1e09b5e14e59a528/protopie_round.png" width="50"></h4>
+<h4><img src="https://skillicons.dev/icons?i=figma,illustrator,photoshop&theme=light&perline=3"><span> </span><img src="./protopie_round.png" width="50"></h4>
 <h2>專案</h2>
 <h3>Projects</h3>
-<h4>🐈貓奴檢定 - 貓知識測驗小遊戲<span> </span><a href="https://meowmastery.netlify.app/">🎮Link</a><span> </span><a href="https://github.com/VOxOVb/catquizoxo">🖥Github</a></h4>
+<img src="./project00.png">
+<details>
+<summary>
+<strong>🐈貓奴檢定 - 貓知識測驗小遊戲<span> </span><a href="https://meowmastery.netlify.app/">🎮Link</a><span> </span><a href="https://github.com/VOxOVb/catquizoxo">🖥Github</a></strong>
+</summary>
 <p><code>#React</code>  <code>#useState</code>  <code>#useEffect</code>  <code>#SCSS</code></p>
 <p>每次遊玩都從題庫隨機取題，以 React 各式 hook 完成進度切換、成績計算及題目解析等功能，並使用 html2canvas 達成測驗結果下載。</p>
-<h4>🐈貓奴檢定 - 設計發想介紹網頁<span> </span><a href="https://meowmastery-intro.netlify.app/">🎮Link</a><span> </span><a href="https://github.com/VOxOVb/oxo4work-portfolio">🖥Github</a></h4>
+</details>
+
+<details>
+<summary>
+<strong><span style="font-size:18px;">🐈貓奴檢定 - 設計發想介紹網頁<span> </span><a href="https://meowmastery-intro.netlify.app/">🎮Link</a><span> </span><a href="https://github.com/VOxOVb/oxo4work-portfolio">🖥Github</a></span></strong>
+</summary>
 <p><code>#React</code>  <code>#SCSS</code>  <code>#Rive</code></p>
 <p>介紹貓奴檢定的視覺設計及看不到的程式小巧思，將本來置於 Behance 等平台的平面內容，使用 Rive 及 CSS 加上一個有互動性的登陸頁，並監聽滾動事件，以優化使用者體驗。</p>
+</details>
+
+<h4></h4>
+
 <h4>🥇React Quiz - React 知識測驗<span> </span><a href="https://react-quiz-oxo.netlify.app/">🎮Link</a><span> </span><a href="https://github.com/VOxOVb/react-quiz">🖥Github</a></h4>
 <p><code>#React</code>  <code>#useReducer</code>  <code>#json-server</code></p>
 <p>搭配線上課程所提供的 CSS 所建立的 React 測驗小遊戲 ，利用 Json-server 建立 Fake api 串接測驗題目，及 React useReducer 更新及管理複數 state 。</p>
@@ -32,21 +45,6 @@
 <h4>🎒Travel List - 旅行打包清單<span> </span><a href="https://travel-list-oxo.netlify.app/">🎮Link</a><span> </span><a href="https://github.com/VOxOVb/travel-list">🖥Github</a></h4>
 <p><code>#React</code>  <code>#useState</code>  <code>#篩選</code>  <code>#狀態管理</code></p>
 <p>搭配線上課程所提供的 CSS ，使用 React 建立一個簡易旅行打包清單，供使用者輸入品項及數量，並隨著打包過程勾選或刪除項目，也可以利用篩選功能選擇排序方式</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <!---
 VOxOVb/VOxOVb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
