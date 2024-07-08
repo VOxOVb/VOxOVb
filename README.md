@@ -3,7 +3,7 @@
 <h4 align="center">你好，我是Yuki! <br>想成為具設計美感，程式又簡潔易懂的工程師🌟</h4>
 <h2>使用技術 <code>-Toolbox-<img align="right" src="https://media.giphy.com/media/qhub8pu17Jd9UIklQ7/giphy.gif" width="150" height="150" ></code></h2>
 <h4>⭐Front-end⭐</h4>
-<h4><img src="https://skillicons.dev/icons?i=react,javascript,scss,bootstrap,html&theme=light&perline=6"><span> </span><img src="./rive_round.png" width="50"></h4>
+<h4><img src="https://skillicons.dev/icons?i=react,javascript,scss,bootstrap&theme=light&perline=6"><span> </span><img src="./rive_round.png" width="50"><span> </span><img src="./git_round.png" width="50"></h4>
 <h4>⭐UI/UX⭐</h4>
 <h4><img src="https://skillicons.dev/icons?i=figma,illustrator,photoshop&theme=light&perline=3"><span> </span><img src="./protopie_round.png" width="50"></h4>
 <h2>專案 <code>-Projects-</code></h2>
