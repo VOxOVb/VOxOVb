@@ -10,26 +10,7 @@
 <h4>⭐UI/UX⭐</h4>
 <strong>喵起來 - 貓貓咖啡廳預約、認養複合式平台</strong>
 <a href="https://www.figma.com/proto/J8XKRJEKz6HrsJuf0KHnMQ/%E8%B2%93%E8%B2%93%E9%A0%90%E7%B4%84%E7%B3%BB%E7%B5%B1?type=design&node-id=48-123&t=1c5EaVfhwJ1qPC0y-1&scaling=scale-down-width&page-id=0%3A1&mode=design">🖼前期發想</a><span> </span><a href="https://www.figma.com/proto/J8XKRJEKz6HrsJuf0KHnMQ/%E8%B2%93%E8%B2%93%E9%A0%90%E7%B4%84%E7%B3%BB%E7%B5%B1?type=design&node-id=104-345&t=tx6jUEoOGOnbgkp5-1&scaling=min-zoom&page-id=46%3A11&mode=design">🎨網頁 Layout (製作中)</a>
-<hr>
 <h4>⭐Front-end⭐</h4>
-<img src="./project00.png">
-<details>
-<summary>
-<strong>🐈貓奴檢定 - 貓知識測驗小遊戲<span> </span><a href="https://meowmastery.netlify.app/">🎮Link</a><span> </span><a href="https://github.com/VOxOVb/catquizoxo">🖥Github</a></strong>
-</summary>
-<p><code>#React</code>  <code>#useState</code>  <code>#useEffect</code>  <code>#SCSS</code></p>
-<p>每次遊玩都從題庫隨機取題，以 React 各式 hook 完成進度切換、成績計算及題目解析等功能，並使用 html2canvas 達成測驗結果下載。</p>
-</details>
-<h3></h3>
-<img src="./project01.png">
-<details>
-<summary>
-<strong>🐈貓奴檢定 - 設計發想介紹網頁<span> </span><a href="https://meowmastery-intro.netlify.app/">🎮Link</a><span> </span><a href="https://github.com/VOxOVb/oxo4work-portfolio">🖥Github</a></strong>
-</summary>
-<p><code>#React</code>  <code>#SCSS</code>  <code>#Rive</code></p>
-<p>介紹貓奴檢定的視覺設計及看不到的程式小巧思，將本來置於 Behance 等平台的平面內容，使用 Rive 及 CSS 加上一個有互動性的登陸頁，並監聽滾動事件，以優化使用者體驗。</p>
-</details>
-
 
 |Repo|Intro|
 |---|---|
