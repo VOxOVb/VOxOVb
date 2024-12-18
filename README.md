@@ -6,6 +6,11 @@
 <h4><img src="https://skillicons.dev/icons?i=react,javascript,scss,bootstrap&theme=light&perline=6"><span> </span><img src="./rive_round.png" width="50"><span> </span><img src="./git_round.png" width="50"></h4>
 <h4>⭐UI/UX⭐</h4>
 <h4><img src="https://skillicons.dev/icons?i=figma,illustrator,photoshop&theme=light&perline=3"><span> </span><img src="./protopie_round.png" width="50"></h4>
+
+
+<h2>學習筆記 <code>-Notes-</code></h2>
+<a href="https://hackmd.io/@dZjKIpj2RNCjjxvUEbzBdg/rk0eNbJB1e"><strong>👾Debug December 關卡紀錄</strong></a>
+<br/>
 <h2>專案 <code>-Projects-</code></h2>
 
 |<h4 align="center">⭐UI/UX⭐</h4>| |
