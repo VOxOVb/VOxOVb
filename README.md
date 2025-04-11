@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://media.giphy.com/media/WLCvUMcxrclUaxRddL/giphy.gif?cid=790b7611f0nkqucdgc6n0q44wn323ors9h4sag4zo30fpfd9&ep=v1_stickers_search&rid=giphy.gif&ct=sf" width="100"><span>I'm Yuki (⁎^◑ᴗ◑^⁎)👍🌟🐈</span></h1>
-<p align="center"><code>#UI/UX</code>  <code>#Front-end</code>  <code>#視覺美感</code>  <code>#邏輯思考</code></p>
+<p align="center"><code>#UI/UX</code>  <code>#Front-end</code>  <code>#互動特效</code></p>
 <h4 align="center">你好，我是Yuki! <br>想成為具設計美感，程式又簡潔易懂的工程師🌟</h4>
 <h2>使用技術 <code>-Toolbox-<img align="right" src="https://media.giphy.com/media/qhub8pu17Jd9UIklQ7/giphy.gif" width="150" height="150" ></code></h2>
 <h4>⭐Front-end⭐</h4>
